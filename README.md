@@ -1,3 +1,4 @@
+<div class="MMThumbImage-Image" style="background-image: url(&quot;//avatars.mds.yandex.net/i?id=12e1bb9f218f1342d7624710e64322a9-5234839-images-thumbs&amp;n=13&quot;);"></div>
 <h1 align="center">Hi 👋, I'm Farrux Yaxshiyev</h1>
 <h3 align="center">A passionate frontend developer from Uzbekiston</h3>
 
