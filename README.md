@@ -3,9 +3,6 @@
 <h3 align="center">A passionate frontend developer from Uzbekiston</h3>
 
 
-<h1 align="center">Hi 👋, I'm Farrux Yaxshiev</h1>
-<h3 align="center">A passionate frontend developer from Uzbekiston</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farrux9404&label=Profile%20views&color=0e75b6&style=flat" alt="farrux9404" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farrux9404" alt="farrux9404" /></a> </p>
